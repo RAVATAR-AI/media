@@ -1,7 +1,7 @@
 # RAVATAR AaaS (Avatar-as-a-Service)
 
 ![RAVATAR logo](/images/ravatar_logo.jpg | width=900)
-
+<img src="/images/ravatar_logo.jpg" width="800" height="264">
 [RAVATAR](http://ravatar.com) is a service platform designed to help users create high-quality realistic human AI avatars by leveraging state-of-the-art technologies of Generative AI and Conversational AI. 
 
 Such AI-powered avatars can represent either a real person or a fictional character in a virtual realm while closely resembling human appearance and behavior by copying even the most subtle mimic expressions and gestures. And thanks to natural language processing and speech generation, these realistic digital human replicas can recognize, understand, and respond to human speech with a voice.
